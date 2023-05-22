@@ -6,3 +6,5 @@ This repository contains the code and documentation for the analysis of a video 
 
 ### Dataset
 The dataset used for this analysis contains information about video game sales, including the rank, name, platform, year, genre, publisher, sales data, critic scores, user scores, and ratings.
+
+I am still working on this project at the moment.
