@@ -42,6 +42,6 @@ To use this project, you can follow these steps:
 
 * The dataset used for this analysis is **vgsales.csv**
 
-This project was created by [Ergyun Hasan]. If you have any questions or suggestions, feel free to reach out.
+This project was created by **Ergyun Hasan**. If you have any questions or suggestions, feel free to reach out.
 
 Happy querying!
