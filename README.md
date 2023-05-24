@@ -41,8 +41,7 @@ To use this project, you can follow these steps:
 ### Resources
 
 * The dataset used for this analysis is **vgsales.csv**
-For more information about SQL syntax and functions, refer to the documentation of your database management system.
-Credits
+
 This project was created by [Ergyun Hasan]. If you have any questions or suggestions, feel free to reach out.
 
 Happy querying!
