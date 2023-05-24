@@ -89,8 +89,7 @@ SELECT
     ROUND(AVG(critic_score),2) AS Average_critic_score,
     ROUND(AVG(user_score),2) AS Average_user_score,
     ROUND(CAST(CORR(critic_score, user_score) AS numeric), 3) AS correlation
-FROM
-    video_games
+FROM video_games   
 WHERE
     critic_score IS NOT NULL
     AND user_score IS NOT NULL;
