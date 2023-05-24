@@ -1,8 +1,8 @@
-DROP TABLE IF EXISTS bookings;
+DROP TABLE IF EXISTS video_games;
 
 # creating a table
 
-CREATE TABLE tracks (
+CREATE TABLE video_games (
   Rank INT,
   Name VARCHAR(255),
   Platform VARCHAR(255),
