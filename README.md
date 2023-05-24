@@ -30,6 +30,7 @@ The repository includes several SQL queries that were used to explore and analyz
 Each query is documented with a corresponding question, providing context for the analysis. The results of the queries provide insights into various aspects of the video game industry.
 
 Usage
+
 To use this project, you can follow these steps:
 
 Clone the repository to your local machine.
