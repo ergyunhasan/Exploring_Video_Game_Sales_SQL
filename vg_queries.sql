@@ -114,7 +114,7 @@ FROM sales
 SELECT
     
     ROUND(AVG(user_score),2) AS average_user_score,
-	ROUND(AVG(global_sales),2) AS average_global_sales,
+    ROUND(AVG(global_sales),2) AS average_global_sales,
     ROUND(CAST(CORR(user_score, global_sales) AS numeric), 3) AS correlation
 FROM video_games
 WHERE critic_score IS NOT NULL
