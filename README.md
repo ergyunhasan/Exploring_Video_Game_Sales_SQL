@@ -4,6 +4,13 @@
 
 This repository contains SQL queries and analysis performed on a dataset of video games. The dataset includes information such as game rankings, platform, year of release, genre, sales data, critic scores, and user scores.
 
+### Description
+
+The objective of this project is to analyze the video games dataset and gain insights into various aspects of the video game industry. The dataset provides valuable information that can be explored through SQL queries to answer questions related to top-selling games, game genres distribution, sales trends, correlations between scores and sales, and more.
+
+By executing the provided SQL queries and analyzing the results, you can explore and interpret the data to draw conclusions and make informed decisions related to the video game industry.
+
+
 ### Dataset
 The dataset used for this analysis consists of the following columns:
 
@@ -23,7 +30,8 @@ The dataset used for this analysis consists of the following columns:
 * User_Score
 * User_Count
 * Rating
-* Queries
+
+### Queries
 
 The repository includes several SQL queries that were used to explore and analyze the video games dataset. The queries cover a range of topics such as top-selling games, distribution of game genres, sales trends, correlations between scores and sales, and more.
 
