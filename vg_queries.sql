@@ -107,7 +107,7 @@ WITH sales AS (
 SELECT
 	year,
 	SUM(global_sales) OVER(ORDER BY year
-					ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW) AS global_sales_rt
+			       ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW) AS global_sales_rt
 FROM sales
 
 -- Are there any correlations between user scores and sales?
