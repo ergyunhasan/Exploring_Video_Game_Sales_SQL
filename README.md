@@ -7,23 +7,24 @@ This repository contains SQL queries and analysis performed on a dataset of vide
 Dataset
 The dataset used for this analysis consists of the following columns:
 
-Rank
-Name
-Platform
-Year
-Genre
-Publisher
-NA_Sales
-EU_Sales
-JP_Sales
-Other_Sales
-Global_Sales
-Critic_Score
-Critic_Count
-User_Score
-User_Count
-Rating
-Queries
+* Rank
+* Name
+* Platform
+* Year
+* Genre
+* Publisher
+* NA_Sales
+* EU_Sales
+* JP_Sales
+* Other_Sales
+* Global_Sales
+* Critic_Score
+* Critic_Count
+* User_Score
+* User_Count
+* Rating
+* Queries
+
 The repository includes several SQL queries that were used to explore and analyze the video games dataset. The queries cover a range of topics such as top-selling games, distribution of game genres, sales trends, correlations between scores and sales, and more.
 
 Each query is documented with a corresponding question, providing context for the analysis. The results of the queries provide insights into various aspects of the video game industry.
